@@ -1,0 +1,20 @@
+PODS:
+  - TextFieldEffects (1.6.0)
+  - VACalendar (1.3)
+
+DEPENDENCIES:
+  - TextFieldEffects
+  - VACalendar
+
+SPEC REPOS:
+  trunk:
+    - TextFieldEffects
+    - VACalendar
+
+SPEC CHECKSUMS:
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+  VACalendar: 3e5a001cbf437ebed2bcfc747f3187e555d65175
+
+PODFILE CHECKSUM: 9850bc7eafa0e29eb2bf17d68f071153ecbe6747
+
+COCOAPODS: 1.8.4
